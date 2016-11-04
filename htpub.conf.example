@@ -1,0 +1,6 @@
+uri base = http://localhost
+root = /var/local/media
+private root = private
+public root = public/lease
+port = 22080
+salt = 358f0c69c0836eaaa30d118eb0739d4649b649d56338bea01373e43245d325a2
